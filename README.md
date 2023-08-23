@@ -2,7 +2,7 @@
 
 Cheatsheets for experienced React developers getting started with TypeScript
 
----
+-----
 
 <a href="https://github.com/typescript-cheatsheets/react/issues/81">
   <img
